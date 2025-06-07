@@ -2,4 +2,6 @@
 
 # mkdir NewClassRepo
 # cd NewClassRepo
-# git init
+# git init 
+
+# after git init we go to github and create new repo with same name ie(NewClassRepo) and no need to add README.md we add README.md through vs code and using push command we push README.d file to github
