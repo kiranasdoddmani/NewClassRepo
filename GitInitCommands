@@ -1,0 +1,5 @@
+# Init commands(used  for creating a new repo(folder)):---
+
+# mkdir NewClassRepo
+# cd NewClassRepo
+# git init
